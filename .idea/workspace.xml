@@ -1,28 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3863f1-40b9-4923-89b2-7625b0742437" name="Changes" comment="" />
+    <list default="true" id="da3863f1-40b9-4923-89b2-7625b0742437" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Recipes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSONProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JSONProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recipe1.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipe1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recipe2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipe2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recipe3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipe3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recipe4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipe4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recipe5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipe5.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Jjq9yUeA5W53dMcuxMIwz0tfU3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/JSONProject/src&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\JSONProject\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\JSONProject\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +59,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672601694400</updated>
-      <workItem from="1672601697387" duration="1000" />
+      <workItem from="1672601697387" duration="2169000" />
+      <workItem from="1672766019133" duration="1256000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
